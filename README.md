@@ -43,4 +43,4 @@ L'interface a été testée sur des morceaux iconiques pour évaluer sa robustes
 ---
 
 ## 👨‍💻 Auteur
-Projet réalisé par **ruckfiot** dans le cadre du module d'IA Audio.
+Projet réalisé par **BERNA Valentin et BEN OLIEL Hugo** dans le cadre du module d'Application de l'IA.
